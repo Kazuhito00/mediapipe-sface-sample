@@ -1,6 +1,7 @@
 # mediapipe-sface-sample
 [MediaPipe Face Detection](https://github.com/google/mediapipe)で検出した顔画像にSFaceを用いて顔認証を行うサンプルです。<br>
-SFaceのONNXモデルは[opencv/opencv_zoo](https://github.com/opencv/opencv_zoo)から取得しています。
+SFaceのONNXモデルは[opencv/opencv_zoo](https://github.com/opencv/opencv_zoo)から取得しています。<br>
+![0114](https://user-images.githubusercontent.com/37477845/154732378-999a50c1-af32-481e-8cb9-bed0729b2a0d.gif)
 
 # Requirement 
 * mediapipe 0.8.8 or later
